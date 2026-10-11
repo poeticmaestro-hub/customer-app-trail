@@ -1,4 +1,4 @@
-# Customer App Trail
+# Customer App Trial
 
 A Java-based REST API built with Spring Boot for managing customer records. This project demonstrates RESTful API development, database integration, input validation, and exception handling.
 
